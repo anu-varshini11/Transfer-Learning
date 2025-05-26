@@ -95,24 +95,31 @@ def train_model(model, train_loader, test_loader, num_epochs=50):
 
 ## OUTPUT
 ### Training Loss, Validation Loss Vs Iteration Plot
-![Screenshot 2025-04-07 115128](https://github.com/user-attachments/assets/d3e2fb50-263f-4ca2-81cf-d9fb48ccbdf7)
+![Screenshot 2025-05-26 111539](https://github.com/user-attachments/assets/47455037-6e7a-4495-a3c4-5db3390cca98)
+
 
 
 
 
 ### Confusion Matrix
-![Screenshot 2025-04-21 114333](https://github.com/user-attachments/assets/b137ec05-a6dd-49d7-95d2-077c1028979b)
+![Screenshot 2025-05-26 111616](https://github.com/user-attachments/assets/aaef48e3-2550-4d4b-afe1-8f544c911855)
+
 
 
 
 
 ### Classification Report
-![Screenshot 2025-04-07 115210](https://github.com/user-attachments/assets/d24dfb6f-edbb-43f3-8f3c-92b8cc7553ef)
+![Screenshot 2025-05-26 111717](https://github.com/user-attachments/assets/0750c53f-e536-49d5-b459-dfb09b20dc0f)
+
 
 
 
 ### New Sample Prediction
-![Screenshot 2025-04-07 115237](https://github.com/user-attachments/assets/bd8738b9-306a-454e-8b7c-b5f363e8af87)
+![Screenshot 2025-05-26 111811](https://github.com/user-attachments/assets/0afd1c9f-ca3c-4e3e-939a-9233410fc22d)
+
+![Screenshot 2025-05-26 111843](https://github.com/user-attachments/assets/6452d611-09b8-4b48-a3f7-af9030bf9609)
+
+
 
 
 
